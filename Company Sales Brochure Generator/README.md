@@ -54,3 +54,4 @@ Clean, formatted content ready for use
 Export brochure as PDF / PPT </br>
 Multi-language support </br>
 Advanced summarization using RAG </br>
+Implement UI to make it more user friendly using streamlit
