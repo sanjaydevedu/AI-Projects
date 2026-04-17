@@ -55,3 +55,5 @@ Export brochure as PDF / PPT </br>
 Multi-language support </br>
 Advanced summarization using RAG </br>
 Implement UI to make it more user friendly using streamlit
+
+## Important I have not Added the .env file here because it contains my OpenAI api Key. Its easy if to create a file and add your key. Refer online to do so. Thanks
